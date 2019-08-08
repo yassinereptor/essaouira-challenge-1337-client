@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.664993b4.chunk.css",
+    "main.js": "/static/js/main.0d87162a.chunk.js",
+    "main.js.map": "/static/js/main.0d87162a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.cb14afec.chunk.js": "/static/js/2.cb14afec.chunk.js",
+    "static/js/2.cb14afec.chunk.js.map": "/static/js/2.cb14afec.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e5b9338ee246894351b20910ca383fa2.js": "/precache-manifest.e5b9338ee246894351b20910ca383fa2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.664993b4.chunk.css.map": "/static/css/main.664993b4.chunk.css.map",
+    "static/media/0.jpg": "/static/media/0.984ceaec.jpg",
+    "static/media/ETIL_logo.png": "/static/media/ETIL_logo.4033499e.png",
+    "static/media/ETIL_logo2.png": "/static/media/ETIL_logo2.4c3c8de2.png",
+    "static/media/index.css": "/static/media/bg.c570a800.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/phone.png": "/static/media/phone.58fa9c55.png"
+  }
+}
